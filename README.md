@@ -52,17 +52,17 @@ The dashboard displays sentiment results and provides multiple graphs for better
 - Shows proportions of Positive, Negative, and Neutral sentiments.  
 
 #### 2. Histograms 📊
-![Histogram](./screenshots/Screenshot%202025-09-24%20113206.png)  
+![Histogram](https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/Screenshot%202025-09-24%20113220.png)  
 - Displays the **distribution of sentiment scores** (e.g., VADER compound, RoBERTa probabilities).  
 - Helps identify skewness in the dataset.  
 
 #### 3. Scatter Plots 🔹
-![Scatter Plot](./screenshots/Screenshot%202025-09-24%20113206.png)  
+![Scatter Plot](https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/Screenshot%202025-09-24%20113234.png)  
 - Plots **VADER compound scores** against **RoBERTa positive scores**.  
 - Highlights agreement or disagreement between the two models.  
 
 #### 4. Correlation Heatmap 🔥
-![Heatmap](./screenshots/Screenshot%202025-09-24%20113303.png)  
+![Heatmap](https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/Screenshot%202025-09-24%20113303.png)  
 - Shows correlations between all sentiment metrics:  
   - VADER (neg, neu, pos, compound)  
   - RoBERTa (negative, neutral, positive)  
