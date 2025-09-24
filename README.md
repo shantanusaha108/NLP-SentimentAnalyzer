@@ -33,7 +33,7 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 ## Screenshots & Graphs 🖼️
 
 ### Main App Window 🏠
-![Main App](./screenshots/Screenshot%202025-09-23%20225234.png)  
+![Main App](https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/Screenshot%202025-09-23%20225234.png)  
 Perform manual text analysis or upload a CSV file. Progress is shown with a loading bar.  
 
 ---
