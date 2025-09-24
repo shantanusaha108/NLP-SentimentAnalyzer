@@ -76,7 +76,7 @@ The dashboard displays sentiment results and provides multiple graphs for better
 ```bash
 # Clone the repository
 git clone https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp.git
-cd VADER-RoBERTa-SentimentApp
+cd NLP-SentimentAnalyzer
 
 # Install dependencies
 pip install -r requirements.txt
