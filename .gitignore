@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and Images (optional, if you want to ignore large files)
+*.csv
+*.xlsx
+*.jpg
+*.png
+*.jpeg
+*.gif
+
+# Logs
+*.log
