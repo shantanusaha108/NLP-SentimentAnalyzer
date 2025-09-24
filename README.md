@@ -74,7 +74,7 @@ The dashboard displays sentiment results and provides multiple graphs for better
 ## Installation  
 
 ```bash
-git clone https://github.com/your-username/Sentiment-Insight-Dashboard.git
+git clone https://github.com/shantanusaha108/Sentiment-Insight-Dashboard.git
 cd Sentiment-Insight-Dashboard
 pip install -r requirements.txt
 python app.py
