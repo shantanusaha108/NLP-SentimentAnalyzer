@@ -26,7 +26,7 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 | <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/pandas.png" width="50" height="50"/> | Data handling |
 | <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/matplotlib.png" width="50" height="50"/> | Visualizations |
 | <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/seaborn.png" width="90" height="35"/> | Advanced plots |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NTLK_Logo.png" width="50" height="50"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/> | **NLTK** – VADER + RoBERTa sentiment analysis |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/NLTK(Natural%20Language%20Toolkit).png" width="50" height="50"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/> | **NLTK** – VADER + RoBERTa sentiment analysis |
 
 ---
 
