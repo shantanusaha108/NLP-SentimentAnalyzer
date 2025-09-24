@@ -19,15 +19,15 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 
 ## Tech Stack 🛠️
 
-| Technology | Usage |
-|------------|--------|
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/python.png" width="70" height="70"/> | Core programming language |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/tkinter.png" width="70" height="70"/> | GUI framework |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/pandas.png" width="70" height="70"/> | Data handling |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/matplotlib.png" width="70" height="70"/> | Visualizations |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/seaborn.png" width="110" height="50"/> | Advanced plots |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/NLTK(Natural%20Language%20Toolkit).png" width="100" height="100"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" height="100"/> | **NLTK** – VADER + RoBERTa sentiment analysis |
 
+| Technology | Usage |
+|------------|-------|
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/python.png" width="70" height="70"/> | **Python** – Core programming language |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/tkinter.png" width="70" height="70"/> | **Tkinter** – GUI framework |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/pandas.png" width="70" height="70"/> | **Pandas** – Data handling |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/matplotlib.png" width="70" height="70"/> | **Matplotlib** – Visualizations |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/seaborn.png" width="110" height="50"/> | **Seaborn** – Advanced plots |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/NLTK(Natural%20Language%20Toolkit).png" width="100" height="100"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" height="100"/> | **NLTK , Hugging Face** – VADER + RoBERTa sentiment analysis |
 
 ---
 
@@ -74,7 +74,13 @@ The dashboard displays sentiment results and provides multiple graphs for better
 ## Installation 💻
 
 ```bash
-git clone https://github.com/your-username/Sentiment-Insight-Dashboard.git
-cd Sentiment-Insight-Dashboard
+# Clone the repository
+git clone https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp.git
+cd VADER-RoBERTa-SentimentApp
+
+# Install dependencies
 pip install -r requirements.txt
-python app.py
+
+# Run the app
+python SentimentalAnalysis.py
+
