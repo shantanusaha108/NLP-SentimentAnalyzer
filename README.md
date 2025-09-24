@@ -21,12 +21,13 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 
 | Technology | Usage |
 |------------|--------|
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/python.png" width="50" height="50"/> | Core programming language |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/tkinter.png" width="50" height="50"/> | GUI framework |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/pandas.png" width="50" height="50"/> | Data handling |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/matplotlib.png" width="50" height="50"/> | Visualizations |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/seaborn.png" width="90" height="35"/> | Advanced plots |
-| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/NLTK(Natural%20Language%20Toolkit).png" width="50" height="50"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/> | **NLTK** – VADER + RoBERTa sentiment analysis |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/python.png" width="70" height="70"/> | Core programming language |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/tkinter.png" width="70" height="70"/> | GUI framework |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/pandas.png" width="70" height="70"/> | Data handling |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/matplotlib.png" width="70" height="70"/> | Visualizations |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/seaborn.png" width="110" height="50"/> | Advanced plots |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/NLTK(Natural%20Language%20Toolkit).png" width="100" height="100"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" height="100"/> | **NLTK** – VADER + RoBERTa sentiment analysis |
+
 
 ---
 
