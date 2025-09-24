@@ -21,11 +21,11 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 
 | Technology | Usage |
 |------------|--------|
-| <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"/> | Core programming language |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/TkInterPython.png" width="50" height="50"/> | GUI framework |
-| <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50" height="50"/> | Data handling |
-| <img src="https://matplotlib.org/_static/logo2.svg" width="50" height="50"/> | Visualizations |
-| <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="90" height="35"/> | Advanced plots |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/python.png" width="50" height="50"/> | Core programming language |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/tkinter.png" width="50" height="50"/> | GUI framework |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/pandas.png" width="50" height="50"/> | Data handling |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/matplotlib.png" width="50" height="50"/> | Visualizations |
+| <img src="https://github.com/shantanusaha108/VADER-RoBERTa-SentimentApp/blob/main/screenshots/seaborn.png" width="90" height="35"/> | Advanced plots |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NTLK_Logo.png" width="50" height="50"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/> | **NLTK** – VADER + RoBERTa sentiment analysis |
 
 ---
