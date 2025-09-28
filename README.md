@@ -34,7 +34,7 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 ## Screenshots & Graphs 🖼️
 
 ### Main App Window 🏠
-![Main App](https://github.com/shantanusaha108/Images/blob/main/NLP-SentimentAnalyzer%20SSs/Screenshot%202025-09-23%20225234.png)  
+![Main App](https://github.com/user-attachments/assets/0483732d-b891-4c8c-b2e7-3136f8fcbebd)  
 Perform manual text analysis or upload a CSV file. Progress is shown with a loading bar.  
 
 ---
