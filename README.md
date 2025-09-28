@@ -22,12 +22,12 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 
 | Technology | Usage |
 |------------|-------|
-| <img src="https://github.com/shantanusaha108/Images/blob/main/png%20logos%20for%20github/python.png" width="70" height="70"/> | **Python** – Core programming language |
-| <img src="https://github.com/shantanusaha108/Images/blob/main/png%20logos%20for%20github/tkinter.png" width="70" height="70"/> | **Tkinter** – GUI framework |
-| <img src="https://github.com/shantanusaha108/Images/blob/main/png%20logos%20for%20github/pandas.png" width="70" height="70"/> | **Pandas** – Data handling |
-| <img src="https://github.com/shantanusaha108/Images/blob/main/png%20logos%20for%20github/matplotlib.png" width="70" height="70"/> | **Matplotlib** – Visualizations |
-| <img src="https://github.com/shantanusaha108/Images/blob/main/png%20logos%20for%20github/seaborn.png" width="110" height="50"/> | **Seaborn** – Advanced plots |
-| <img src="https://github.com/shantanusaha108/Images/blob/main/png%20logos%20for%20github/NLTK(Natural%20Language%20Toolkit).png" width="100" height="100"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" height="100"/> | **NLTK , Hugging Face** – VADER + RoBERTa sentiment analysis |
+| <img src="https://github.com/user-attachments/assets/1e8f1631-11d2-4aac-b239-d8b2fd763f5e" width="70" height="70"/> | **Python** – Core programming language |
+| <img src="https://github.com/user-attachments/assets/6807fe60-fca2-4079-8ba6-320c9ed90f07" width="70" height="70"/> | **Tkinter** – GUI framework |
+| <img src="https://github.com/user-attachments/assets/051211e6-6bc8-46a4-8996-7d79aea289df" width="70" height="70"/> | **Pandas** – Data handling |
+| <img src="https://github.com/user-attachments/assets/8eff96b8-4cb3-4b1f-b919-6f76db9b538d" width="70" height="70"/> | **Matplotlib** – Visualizations |
+| <img src="https://github.com/user-attachments/assets/97444f80-a41c-4fba-bab4-7b643af412f6" width="110" height="50"/> | **Seaborn** – Advanced plots |
+| <img src="https://github.com/user-attachments/assets/3dce0999-3ca7-4e98-b629-6be5e18fc45b" width="100" height="100"/> <br> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" height="100"/> | **NLTK , Hugging Face** – VADER + RoBERTa sentiment analysis |
 
 ---
 
