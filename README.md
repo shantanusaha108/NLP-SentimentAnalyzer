@@ -22,7 +22,7 @@ Built with **Python** + **Tkinter**, this app allows you to analyze text sentime
 
 | Technology | Usage |
 |------------|-------|
-| <img src="https://github.com/user-attachments/assets/1e8f1631-11d2-4aac-b239-d8b2fd763f5e" width="70" height="70"/> | **Python** – Core programming language |
+| <img src="https://github.com/user-attachments/assets/ddf44abf-1525-43ad-8ccb-0c634c215300" width="70" height="70"/> | **Python** – Core programming language |
 | <img src="https://github.com/user-attachments/assets/6807fe60-fca2-4079-8ba6-320c9ed90f07" width="70" height="70"/> | **Tkinter** – GUI framework |
 | <img src="https://github.com/user-attachments/assets/051211e6-6bc8-46a4-8996-7d79aea289df" width="70" height="70"/> | **Pandas** – Data handling |
 | <img src="https://github.com/user-attachments/assets/8eff96b8-4cb3-4b1f-b919-6f76db9b538d" width="70" height="70"/> | **Matplotlib** – Visualizations |
